@@ -1,7 +1,9 @@
 # Hi, I’m @treynetcodes — Javier
 
 I’m a software developer building **websites**, **multiplatform applications**, and **videogames**.
-Although I originally started my career in the tourism industry, I later made a career change and trained as a multiplatform application developer. Today, I focus fully on software development and creating my own applications.
+Although I originally started my career in the tourism industry, I later made a career change and trained as a multiplatform application developer. 
+
+Currently, I focus fully on software development and creating my own applications.
 
 ---
 
