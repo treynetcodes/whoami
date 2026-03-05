@@ -1,11 +1,7 @@
 # Hi, I’m @treynetcodes — Javier
 
-I’m a software developer building **websites**, **multiplatform applications**, and **video games**.
-Although I originally started my career in the tourism industry —a path that somehow also led me to code— I now focus on software development and creating my own applications.
-
-To avoid the wonderful scenario of building something that looks like it works but is actually full of holes, I decided to train as a **penetration tester**. What began as a way to secure my own projects became a genuine passion, so I continue studying offensive security almost instinctively and for peace of mind.
-
-Today, I combine software development with a growing specialization in cybersecurity, aiming to build applications that are attractive, functional, and —above all— secure.
+I’m a software developer building websites, multiplatform applications, and video games.
+Although I originally started my career in the tourism industry, I later made a career change and trained as a multiplatform application developer. Today, I focus fully on software development and creating my own applications.
 
 ---
 
