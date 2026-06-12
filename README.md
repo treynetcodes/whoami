@@ -1,9 +1,9 @@
 <div align="center">
 
 # Javier García
-### Lead Developer at TreyNet Codes
+### Lead Developer · TreyNet Codes
 
-**TreyNet Codes builds software products. Apps, games, and web platforms — from architecture to deployment.**
+**Build software products under TreyNet Codes — apps, games, and web platforms, from architecture to deployment.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-gs)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## What We Build
+## What I Build
 
 ### 🌐 Web Platforms
 Full-stack products with React, TypeScript, and Node.js. From commercial landing pages to data-driven SPAs. Focused on performance, usability, and conversion.
@@ -46,12 +46,14 @@ Game design and full development with Unity and C#. From mechanics to monetizati
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Services**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Mobile & Games**
 
@@ -72,6 +74,6 @@ Game design and full development with Unity and C#. From mechanics to monetizati
 
 <div align="center">
 
-*[TreyNet Codes](https://treynetcodes.vercel.app/) — software products with commercial intent.*
+*[TreyNet Codes](https://treynetcodes.vercel.app/) — commercial software products.*
 
 </div>
